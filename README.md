@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - ⌛️ I was interested in **Game Development with Unity**
 
-- 📫 How to reach me **subutaysevim@gmail.com**
+- 📫 How to reach me : **subutaysevim@gmail.com**
 
-- 👨‍💻 Here is my LinkedIn **https://www.linkedin.com/in/subutay-kaan-sevim-208640214/**
+- 👨‍💻 Here is my LinkedIn : **https://www.linkedin.com/in/subutay-kaan-sevim-208640214/**
 
 <p align="left">
 </p>
